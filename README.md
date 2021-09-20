@@ -9,4 +9,3 @@ R: So I have not committed changes as of yet, now, I should try to make a delibe
 So, if I don't fill the commuit changes bubble, do the changes actually commit?
 R: It seems like no, I do have to fill the commit changes bubble for a pull request to be createad.
 R2: Let's try again
-R3: main
